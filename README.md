@@ -1,4 +1,4 @@
-# Chinese Copybook Generator
+# Chinese Copybook（字帖） Generator
 
 A Python tool to generate Chinese character practice sheets in SVG format.
 
