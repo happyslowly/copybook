@@ -1,6 +1,6 @@
-# Chinese Copybook Generator（中文字帖生成器）
+# Chinese Calligraphic Copybook Generator（中文字帖生成器）
 
-A Python tool to generate Chinese character practice sheets in SVG format.
+A Python tool to generate Chinese calligraphy practice sheets in SVG format.
 
 ## Preview
 
