@@ -1,8 +1,12 @@
+import os
+
 from jinja2 import Environment, FileSystemLoader
 
 
 def load_template():
-    env = Environment(loader=FileSystemLoader("copybook/templates"))
+    module_dir = os.path.dirname(os.path.abspath(__file__))
+    templates_dir = os.path.join(module_dir, "templates")
+    env = Environment(loader=FileSystemLoader(templates_dir))
     return env.get_template("standard.j2")
 
 
@@ -116,4 +120,3 @@ def create_book(args, paper_sizes):
     except Exception as e:
         print(f"Error writing SVG file: {e}")
         exit(1)
-
