@@ -8,7 +8,7 @@ PAPER_SIZES = {
 
 
 def parse_arguments():
-    parser = argparse.ArgumentParser(description="Simple chinese copybook generator")
+    parser = argparse.ArgumentParser(description="Simple chinese calligraphic copybook generator")
     parser.add_argument(
         "-p",
         "--page",
