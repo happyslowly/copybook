@@ -4,7 +4,7 @@ A Python tool to generate Chinese calligraphy practice sheets in SVG format.
 
 ## Preview
 
-![Sample Copybook](sample.svg)
+![Sample Copybook](sample.png)
 
 ## Features
 
