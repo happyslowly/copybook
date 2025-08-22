@@ -6,6 +6,13 @@ A Python tool to generate Chinese calligraphy practice sheets in SVG format.
 
 ![Sample Copybook](sample.svg)
 
+## Features
+
+- **Practice Grids**: Generates structured grids with guide lines for calligraphy
+- **Grid-based Layout**: Fills Chinese characters from text files onto practice grids
+- **Smart Punctuation**: Positions punctuation according to Chinese typography rules as left/right subscripts
+- **Multiple Formats**: A4, Letter, and Legal paper sizes
+
 ## Usage
 
 After installation, you can use the tool in two ways:
@@ -37,7 +44,6 @@ python -m copybook.main [OPTIONS] TEXT_FILE
 - `--font-size`: Font size in pixels [default: 60]
 - `--font-color`: Font color [default: gray]
 - `--font-opacity`: Font opacity (0.0-1.0) [default: 0.8]
-- `--include-punctuation`: Include punctuation marks from the text
 
 ### Example
 

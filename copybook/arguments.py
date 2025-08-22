@@ -20,7 +20,7 @@ def parse_arguments():
         help="copybook page size",
     )
     parser.add_argument(
-        "-g", "--grid", type=int, default=80, help="grid size of each character"
+        "-g", "--grid", type=int, default=52, help="grid size of each character"
     )
 
     parser.add_argument(
@@ -42,7 +42,7 @@ def parse_arguments():
         help="Font family for characters",
     )
     parser.add_argument(
-        "--font-size", type=int, default=60, help="Font size for characters in pixels"
+        "--font-size", type=int, default=39, help="Font size for characters in pixels"
     )
     parser.add_argument(
         "--font-color",

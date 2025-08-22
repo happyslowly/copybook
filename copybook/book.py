@@ -1,9 +1,15 @@
 import os
 
-from jinja2 import Environment, FileSystemLoader
+from jinja2 import Environment, FileSystemLoader, Template
+
+PAPER_SIZES = {
+    "a4": (794, 1123),
+    "letter": (816, 1056),
+    "legal": (816, 1344),
+}
 
 PUNCT_POSITION = {
-    "left": ["‘", "“", "「", "『", "（", "〔", "【", "《"],
+    "left": ["‘", "“", "「", "『", "（", "〔", "【", "《", "—", "…", "～"],
     "right": [
         "’",
         "”",
@@ -20,10 +26,6 @@ PUNCT_POSITION = {
         "：",
         "？",
         "！",
-        "…",
-        "—",
-        "–",
-        "～",
     ],
 }
 
@@ -73,10 +75,11 @@ def attach_punctuation(char_list):
     for i, char in enumerate(char_list):
         if not char:
             continue
-        if char not in punct_rules:
+        # use char[0] because of connected punct
+        if char[0] not in punct_rules:
             result.append([char, None, None])
             continue
-        position = punct_rules[char]
+        position = punct_rules[char[0]]
         if position == "left" and i + 1 < len(char_list):
             next_char = char_list[i + 1]
             result.append([next_char, char, None])
@@ -86,19 +89,19 @@ def attach_punctuation(char_list):
     return result
 
 
-def load_template():
+def load_template() -> Template:
     module_dir = os.path.dirname(os.path.abspath(__file__))
     templates_dir = os.path.join(module_dir, "templates")
     env = Environment(loader=FileSystemLoader(templates_dir))
     return env.get_template("standard.j2")
 
 
-def calculate_page_dimensions(args, number_of_characters, page_height):
+def calculate_page_dimensions(args, number_of_characters, width, page_height):
     page_margin = args.page_margin
     grid_spacing = args.grid_spacing
     line_spacing = args.line_spacing
 
-    available_width = args.width - 2 * page_margin
+    available_width = width - 2 * page_margin
     available_height = page_height - 2 * page_margin
     cols_per_page = available_width // (args.grid + grid_spacing)
     rows_per_page = available_height // (args.grid + line_spacing)
@@ -117,8 +120,13 @@ def calculate_page_dimensions(args, number_of_characters, page_height):
 
 
 def generate_y_positions(
-    page_height, number_of_pages, rows_per_page, page_margin, grid, line_spacing
-):
+    page_height: int,
+    number_of_pages: int,
+    rows_per_page: int,
+    page_margin: int,
+    grid: int,
+    line_spacing: int,
+) -> list[int]:
     y_positions = []
     for page_num in range(number_of_pages):
         page_offset = page_num * page_height
@@ -128,17 +136,18 @@ def generate_y_positions(
     return y_positions
 
 
-def create_book(args, paper_sizes):
+def create_book(args):
     char_list = attach_punctuation(group_connect_punct(load_file(args.text_file)))
-    print(char_list)
     number_of_characters = len(char_list)
-    width, page_height = paper_sizes[args.page]
+    width, page_height = PAPER_SIZES[args.page]
 
     # Add width to args for calculation
     args.width = width
 
     # Calculate page dimensions
-    page_info = calculate_page_dimensions(args, number_of_characters, page_height)
+    page_info = calculate_page_dimensions(
+        args, number_of_characters, width, page_height
+    )
 
     # Generate y positions
     y_positions = generate_y_positions(
