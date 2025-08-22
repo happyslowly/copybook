@@ -8,7 +8,9 @@ PAPER_SIZES = {
 
 
 def parse_arguments():
-    parser = argparse.ArgumentParser(description="Simple chinese calligraphic copybook generator")
+    parser = argparse.ArgumentParser(
+        description="Simple chinese calligraphic copybook generator"
+    )
     parser.add_argument(
         "-p",
         "--page",
@@ -32,9 +34,6 @@ def parse_arguments():
     )
     parser.add_argument(
         "--line-spacing", type=int, default=10, help="Extra spacing between lines"
-    )
-    parser.add_argument(
-        "-m", "--margin", type=int, default=10, help="margin size between each grid"
     )
     parser.add_argument(
         "--font",
@@ -63,9 +62,11 @@ def parse_arguments():
         help="Path to source file containing Chinese characters to practice",
     )
     parser.add_argument(
-        "--include-punctuation",
-        action="store_true",
-        help="Include punctuation marks",
+        "-o",
+        "--output",
+        type=str,
+        default="book.svg",
+        help="output SVG filename(default: book.svg)",
     )
 
     args = parser.parse_args()
@@ -85,4 +86,3 @@ def parse_arguments():
         parser.error("Font opacity must be between 0.0 and 1.0")
 
     return args
-

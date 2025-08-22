@@ -2,39 +2,95 @@ import os
 
 from jinja2 import Environment, FileSystemLoader
 
+PUNCT_POSITION = {
+    "left": ["‘", "“", "「", "『", "（", "〔", "【", "《"],
+    "right": [
+        "’",
+        "”",
+        "」",
+        "』",
+        "）",
+        "〕",
+        "】",
+        "》",
+        "。",
+        "，",
+        "、",
+        "；",
+        "：",
+        "？",
+        "！",
+        "…",
+        "—",
+        "–",
+        "～",
+    ],
+}
 
-def load_template():
-    module_dir = os.path.dirname(os.path.abspath(__file__))
-    templates_dir = os.path.join(module_dir, "templates")
-    env = Environment(loader=FileSystemLoader(templates_dir))
-    return env.get_template("standard.j2")
+CONNECTED_PUNCT = ["—", "…", "～"]
 
 
-def load_file(text_file: str, include_punctuation: bool) -> list[str]:
-    def is_chinese_char(char):
-        return "\u4e00" <= char <= "\u9fff"
-
-    text_list = []
+def load_file(text_file: str) -> list[str]:
+    char_list = []
     try:
         with open(text_file, "r", encoding="utf-8") as fin:
             for line in fin:
                 line = line.strip()
                 if not line:
                     continue
-                text_list.extend(
-                    [
-                        c
-                        for c in list(line)
-                        if c and (is_chinese_char(c) or include_punctuation)
-                    ]
-                )
+                char_list.extend([c for c in list(line) if c])
     except FileNotFoundError:
         print(f"Error: File '{text_file}' not found.")
         exit(1)
     except Exception as e:
         print(f"Error reading file '{text_file}': {e}")
         exit(1)
-    return text_list
+    return char_list
+
+
+def group_connect_punct(char_list):
+    result = []
+    i = 0
+    while i < len(char_list):
+        char = char_list[i]
+        if char in CONNECTED_PUNCT:
+            sequence = char
+            j = i + 1
+            while j < len(char_list) and char_list[j] == char:
+                sequence += char
+                j += 1
+            result.append(sequence)
+            i = j
+        else:
+            result.append(char)
+            i += 1
+    return result
+
+
+def attach_punctuation(char_list):
+    punct_rules = {char: pos for pos, chars in PUNCT_POSITION.items() for char in chars}
+    result = []  # [char, left_punct, right_punct]
+    for i, char in enumerate(char_list):
+        if not char:
+            continue
+        if char not in punct_rules:
+            result.append([char, None, None])
+            continue
+        position = punct_rules[char]
+        if position == "left" and i + 1 < len(char_list):
+            next_char = char_list[i + 1]
+            result.append([next_char, char, None])
+            char_list[i + 1] = None
+        if position == "right" and result:
+            result[-1][2] = char
+    return result
+
+
+def load_template():
+    module_dir = os.path.dirname(os.path.abspath(__file__))
+    templates_dir = os.path.join(module_dir, "templates")
+    env = Environment(loader=FileSystemLoader(templates_dir))
+    return env.get_template("standard.j2")
 
 
 def calculate_page_dimensions(args, number_of_characters, page_height):
@@ -73,8 +129,9 @@ def generate_y_positions(
 
 
 def create_book(args, paper_sizes):
-    text_list = load_file(args.text_file, args.include_punctuation)
-    number_of_characters = len(text_list)
+    char_list = attach_punctuation(group_connect_punct(load_file(args.text_file)))
+    print(char_list)
+    number_of_characters = len(char_list)
     width, page_height = paper_sizes[args.page]
 
     # Add width to args for calculation
@@ -107,7 +164,7 @@ def create_book(args, paper_sizes):
         "grid": args.grid,
         "x_positions": x_positions,
         "y_positions": y_positions,
-        "text_list": text_list,
+        "text_list": char_list,
         "font": args.font,
         "font_size": args.font_size,
         "font_color": args.font_color,
