@@ -1,0 +1,2002 @@
+<svg width="816" height="1056" xmlns="http://www.w3.org/2000/svg">
+  
+  
+    
+      <rect x="50" y="50" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="90" y1="50" x2="90" y2="130" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="50" y1="90" x2="130" y2="90" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="50" y1="50" x2="130" y2="130" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="130" y1="50" x2="50" y2="130" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="90" y="90" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        滚
+      </text>
+
+      
+
+      
+
+      
+      
+    
+      <rect x="135" y="50" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="175" y1="50" x2="175" y2="130" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="135" y1="90" x2="215" y2="90" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="135" y1="50" x2="215" y2="130" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="215" y1="50" x2="135" y2="130" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="175" y="90" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        滚
+      </text>
+
+      
+
+      
+
+      
+      
+    
+      <rect x="220" y="50" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="260" y1="50" x2="260" y2="130" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="220" y1="90" x2="300" y2="90" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="220" y1="50" x2="300" y2="130" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="300" y1="50" x2="220" y2="130" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="260" y="90" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        长
+      </text>
+
+      
+
+      
+
+      
+      
+    
+      <rect x="305" y="50" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="345" y1="50" x2="345" y2="130" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="305" y1="90" x2="385" y2="90" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="305" y1="50" x2="385" y2="130" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="385" y1="50" x2="305" y2="130" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="345" y="90" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        江
+      </text>
+
+      
+
+      
+
+      
+      
+    
+      <rect x="390" y="50" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="430" y1="50" x2="430" y2="130" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="390" y1="90" x2="470" y2="90" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="390" y1="50" x2="470" y2="130" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="470" y1="50" x2="390" y2="130" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="430" y="90" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        东
+      </text>
+
+      
+
+      
+
+      
+      
+    
+      <rect x="475" y="50" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="515" y1="50" x2="515" y2="130" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="475" y1="90" x2="555" y2="90" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="475" y1="50" x2="555" y2="130" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="555" y1="50" x2="475" y2="130" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="515" y="90" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        逝
+      </text>
+
+      
+
+      
+
+      
+      
+    
+      <rect x="560" y="50" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="600" y1="50" x2="600" y2="130" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="560" y1="90" x2="640" y2="90" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="560" y1="50" x2="640" y2="130" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="640" y1="50" x2="560" y2="130" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="600" y="90" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        水
+      </text>
+
+      
+
+      
+      <text x="624" y="122"
+        font-family="TianYingZhangKaiShu" font-size="15"
+        fill="gray" opacity="0.8">
+        ，
+      </text>
+      
+
+      
+      
+    
+      <rect x="645" y="50" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="685" y1="50" x2="685" y2="130" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="645" y1="90" x2="725" y2="90" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="645" y1="50" x2="725" y2="130" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="725" y1="50" x2="645" y2="130" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="685" y="90" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        浪
+      </text>
+
+      
+
+      
+
+      
+      
+    
+  
+    
+      <rect x="50" y="140" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="90" y1="140" x2="90" y2="220" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="50" y1="180" x2="130" y2="180" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="50" y1="140" x2="130" y2="220" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="130" y1="140" x2="50" y2="220" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="90" y="180" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        花
+      </text>
+
+      
+
+      
+
+      
+      
+    
+      <rect x="135" y="140" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="175" y1="140" x2="175" y2="220" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="135" y1="180" x2="215" y2="180" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="135" y1="140" x2="215" y2="220" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="215" y1="140" x2="135" y2="220" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="175" y="180" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        淘
+      </text>
+
+      
+
+      
+
+      
+      
+    
+      <rect x="220" y="140" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="260" y1="140" x2="260" y2="220" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="220" y1="180" x2="300" y2="180" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="220" y1="140" x2="300" y2="220" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="300" y1="140" x2="220" y2="220" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="260" y="180" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        尽
+      </text>
+
+      
+
+      
+
+      
+      
+    
+      <rect x="305" y="140" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="345" y1="140" x2="345" y2="220" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="305" y1="180" x2="385" y2="180" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="305" y1="140" x2="385" y2="220" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="385" y1="140" x2="305" y2="220" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="345" y="180" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        英
+      </text>
+
+      
+
+      
+
+      
+      
+    
+      <rect x="390" y="140" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="430" y1="140" x2="430" y2="220" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="390" y1="180" x2="470" y2="180" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="390" y1="140" x2="470" y2="220" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="470" y1="140" x2="390" y2="220" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="430" y="180" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        雄
+      </text>
+
+      
+
+      
+      <text x="454" y="212"
+        font-family="TianYingZhangKaiShu" font-size="15"
+        fill="gray" opacity="0.8">
+        。
+      </text>
+      
+
+      
+      
+    
+      <rect x="475" y="140" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="515" y1="140" x2="515" y2="220" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="475" y1="180" x2="555" y2="180" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="475" y1="140" x2="555" y2="220" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="555" y1="140" x2="475" y2="220" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="515" y="180" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        是
+      </text>
+
+      
+
+      
+
+      
+      
+    
+      <rect x="560" y="140" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="600" y1="140" x2="600" y2="220" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="560" y1="180" x2="640" y2="180" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="560" y1="140" x2="640" y2="220" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="640" y1="140" x2="560" y2="220" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="600" y="180" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        非
+      </text>
+
+      
+
+      
+
+      
+      
+    
+      <rect x="645" y="140" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="685" y1="140" x2="685" y2="220" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="645" y1="180" x2="725" y2="180" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="645" y1="140" x2="725" y2="220" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="725" y1="140" x2="645" y2="220" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="685" y="180" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        成
+      </text>
+
+      
+
+      
+
+      
+      
+    
+  
+    
+      <rect x="50" y="230" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="90" y1="230" x2="90" y2="310" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="50" y1="270" x2="130" y2="270" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="50" y1="230" x2="130" y2="310" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="130" y1="230" x2="50" y2="310" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="90" y="270" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        败
+      </text>
+
+      
+
+      
+
+      
+      
+    
+      <rect x="135" y="230" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="175" y1="230" x2="175" y2="310" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="135" y1="270" x2="215" y2="270" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="135" y1="230" x2="215" y2="310" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="215" y1="230" x2="135" y2="310" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="175" y="270" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        转
+      </text>
+
+      
+
+      
+
+      
+      
+    
+      <rect x="220" y="230" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="260" y1="230" x2="260" y2="310" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="220" y1="270" x2="300" y2="270" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="220" y1="230" x2="300" y2="310" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="300" y1="230" x2="220" y2="310" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="260" y="270" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        头
+      </text>
+
+      
+
+      
+
+      
+      
+    
+      <rect x="305" y="230" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="345" y1="230" x2="345" y2="310" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="305" y1="270" x2="385" y2="270" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="305" y1="230" x2="385" y2="310" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="385" y1="230" x2="305" y2="310" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="345" y="270" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        空
+      </text>
+
+      
+
+      
+      <text x="369" y="302"
+        font-family="TianYingZhangKaiShu" font-size="15"
+        fill="gray" opacity="0.8">
+        。
+      </text>
+      
+
+      
+      
+    
+      <rect x="390" y="230" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="430" y1="230" x2="430" y2="310" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="390" y1="270" x2="470" y2="270" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="390" y1="230" x2="470" y2="310" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="470" y1="230" x2="390" y2="310" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="430" y="270" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        青
+      </text>
+
+      
+
+      
+
+      
+      
+    
+      <rect x="475" y="230" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="515" y1="230" x2="515" y2="310" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="475" y1="270" x2="555" y2="270" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="475" y1="230" x2="555" y2="310" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="555" y1="230" x2="475" y2="310" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="515" y="270" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        山
+      </text>
+
+      
+
+      
+
+      
+      
+    
+      <rect x="560" y="230" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="600" y1="230" x2="600" y2="310" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="560" y1="270" x2="640" y2="270" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="560" y1="230" x2="640" y2="310" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="640" y1="230" x2="560" y2="310" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="600" y="270" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        依
+      </text>
+
+      
+
+      
+
+      
+      
+    
+      <rect x="645" y="230" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="685" y1="230" x2="685" y2="310" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="645" y1="270" x2="725" y2="270" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="645" y1="230" x2="725" y2="310" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="725" y1="230" x2="645" y2="310" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="685" y="270" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        旧
+      </text>
+
+      
+
+      
+
+      
+      
+    
+  
+    
+      <rect x="50" y="320" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="90" y1="320" x2="90" y2="400" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="50" y1="360" x2="130" y2="360" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="50" y1="320" x2="130" y2="400" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="130" y1="320" x2="50" y2="400" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="90" y="360" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        在
+      </text>
+
+      
+
+      
+      <text x="114" y="392"
+        font-family="TianYingZhangKaiShu" font-size="15"
+        fill="gray" opacity="0.8">
+        ，
+      </text>
+      
+
+      
+      
+    
+      <rect x="135" y="320" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="175" y1="320" x2="175" y2="400" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="135" y1="360" x2="215" y2="360" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="135" y1="320" x2="215" y2="400" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="215" y1="320" x2="135" y2="400" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="175" y="360" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        几
+      </text>
+
+      
+
+      
+
+      
+      
+    
+      <rect x="220" y="320" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="260" y1="320" x2="260" y2="400" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="220" y1="360" x2="300" y2="360" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="220" y1="320" x2="300" y2="400" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="300" y1="320" x2="220" y2="400" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="260" y="360" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        度
+      </text>
+
+      
+
+      
+
+      
+      
+    
+      <rect x="305" y="320" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="345" y1="320" x2="345" y2="400" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="305" y1="360" x2="385" y2="360" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="305" y1="320" x2="385" y2="400" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="385" y1="320" x2="305" y2="400" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="345" y="360" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        夕
+      </text>
+
+      
+
+      
+
+      
+      
+    
+      <rect x="390" y="320" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="430" y1="320" x2="430" y2="400" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="390" y1="360" x2="470" y2="360" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="390" y1="320" x2="470" y2="400" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="470" y1="320" x2="390" y2="400" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="430" y="360" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        阳
+      </text>
+
+      
+
+      
+
+      
+      
+    
+      <rect x="475" y="320" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="515" y1="320" x2="515" y2="400" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="475" y1="360" x2="555" y2="360" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="475" y1="320" x2="555" y2="400" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="555" y1="320" x2="475" y2="400" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="515" y="360" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        红
+      </text>
+
+      
+
+      
+      <text x="539" y="392"
+        font-family="TianYingZhangKaiShu" font-size="15"
+        fill="gray" opacity="0.8">
+        。
+      </text>
+      
+
+      
+      
+    
+      <rect x="560" y="320" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="600" y1="320" x2="600" y2="400" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="560" y1="360" x2="640" y2="360" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="560" y1="320" x2="640" y2="400" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="640" y1="320" x2="560" y2="400" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="600" y="360" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        白
+      </text>
+
+      
+
+      
+
+      
+      
+    
+      <rect x="645" y="320" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="685" y1="320" x2="685" y2="400" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="645" y1="360" x2="725" y2="360" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="645" y1="320" x2="725" y2="400" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="725" y1="320" x2="645" y2="400" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="685" y="360" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        发
+      </text>
+
+      
+
+      
+
+      
+      
+    
+  
+    
+      <rect x="50" y="410" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="90" y1="410" x2="90" y2="490" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="50" y1="450" x2="130" y2="450" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="50" y1="410" x2="130" y2="490" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="130" y1="410" x2="50" y2="490" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="90" y="450" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        渔
+      </text>
+
+      
+
+      
+
+      
+      
+    
+      <rect x="135" y="410" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="175" y1="410" x2="175" y2="490" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="135" y1="450" x2="215" y2="450" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="135" y1="410" x2="215" y2="490" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="215" y1="410" x2="135" y2="490" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="175" y="450" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        樵
+      </text>
+
+      
+
+      
+
+      
+      
+    
+      <rect x="220" y="410" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="260" y1="410" x2="260" y2="490" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="220" y1="450" x2="300" y2="450" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="220" y1="410" x2="300" y2="490" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="300" y1="410" x2="220" y2="490" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="260" y="450" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        江
+      </text>
+
+      
+
+      
+
+      
+      
+    
+      <rect x="305" y="410" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="345" y1="410" x2="345" y2="490" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="305" y1="450" x2="385" y2="450" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="305" y1="410" x2="385" y2="490" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="385" y1="410" x2="305" y2="490" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="345" y="450" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        渚
+      </text>
+
+      
+
+      
+
+      
+      
+    
+      <rect x="390" y="410" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="430" y1="410" x2="430" y2="490" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="390" y1="450" x2="470" y2="450" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="390" y1="410" x2="470" y2="490" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="470" y1="410" x2="390" y2="490" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="430" y="450" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        上
+      </text>
+
+      
+
+      
+      <text x="454" y="482"
+        font-family="TianYingZhangKaiShu" font-size="15"
+        fill="gray" opacity="0.8">
+        ，
+      </text>
+      
+
+      
+      
+    
+      <rect x="475" y="410" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="515" y1="410" x2="515" y2="490" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="475" y1="450" x2="555" y2="450" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="475" y1="410" x2="555" y2="490" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="555" y1="410" x2="475" y2="490" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="515" y="450" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        惯
+      </text>
+
+      
+
+      
+
+      
+      
+    
+      <rect x="560" y="410" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="600" y1="410" x2="600" y2="490" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="560" y1="450" x2="640" y2="450" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="560" y1="410" x2="640" y2="490" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="640" y1="410" x2="560" y2="490" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="600" y="450" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        看
+      </text>
+
+      
+
+      
+
+      
+      
+    
+      <rect x="645" y="410" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="685" y1="410" x2="685" y2="490" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="645" y1="450" x2="725" y2="450" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="645" y1="410" x2="725" y2="490" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="725" y1="410" x2="645" y2="490" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="685" y="450" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        秋
+      </text>
+
+      
+
+      
+
+      
+      
+    
+  
+    
+      <rect x="50" y="500" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="90" y1="500" x2="90" y2="580" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="50" y1="540" x2="130" y2="540" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="50" y1="500" x2="130" y2="580" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="130" y1="500" x2="50" y2="580" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="90" y="540" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        月
+      </text>
+
+      
+
+      
+
+      
+      
+    
+      <rect x="135" y="500" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="175" y1="500" x2="175" y2="580" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="135" y1="540" x2="215" y2="540" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="135" y1="500" x2="215" y2="580" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="215" y1="500" x2="135" y2="580" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="175" y="540" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        春
+      </text>
+
+      
+
+      
+
+      
+      
+    
+      <rect x="220" y="500" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="260" y1="500" x2="260" y2="580" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="220" y1="540" x2="300" y2="540" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="220" y1="500" x2="300" y2="580" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="300" y1="500" x2="220" y2="580" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="260" y="540" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        风
+      </text>
+
+      
+
+      
+      <text x="284" y="572"
+        font-family="TianYingZhangKaiShu" font-size="15"
+        fill="gray" opacity="0.8">
+        。
+      </text>
+      
+
+      
+      
+    
+      <rect x="305" y="500" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="345" y1="500" x2="345" y2="580" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="305" y1="540" x2="385" y2="540" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="305" y1="500" x2="385" y2="580" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="385" y1="500" x2="305" y2="580" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="345" y="540" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        一
+      </text>
+
+      
+
+      
+
+      
+      
+    
+      <rect x="390" y="500" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="430" y1="500" x2="430" y2="580" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="390" y1="540" x2="470" y2="540" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="390" y1="500" x2="470" y2="580" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="470" y1="500" x2="390" y2="580" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="430" y="540" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        壶
+      </text>
+
+      
+
+      
+
+      
+      
+    
+      <rect x="475" y="500" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="515" y1="500" x2="515" y2="580" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="475" y1="540" x2="555" y2="540" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="475" y1="500" x2="555" y2="580" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="555" y1="500" x2="475" y2="580" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="515" y="540" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        浊
+      </text>
+
+      
+
+      
+
+      
+      
+    
+      <rect x="560" y="500" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="600" y1="500" x2="600" y2="580" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="560" y1="540" x2="640" y2="540" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="560" y1="500" x2="640" y2="580" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="640" y1="500" x2="560" y2="580" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="600" y="540" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        酒
+      </text>
+
+      
+
+      
+
+      
+      
+    
+      <rect x="645" y="500" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="685" y1="500" x2="685" y2="580" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="645" y1="540" x2="725" y2="540" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="645" y1="500" x2="725" y2="580" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="725" y1="500" x2="645" y2="580" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="685" y="540" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        喜
+      </text>
+
+      
+
+      
+
+      
+      
+    
+  
+    
+      <rect x="50" y="590" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="90" y1="590" x2="90" y2="670" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="50" y1="630" x2="130" y2="630" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="50" y1="590" x2="130" y2="670" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="130" y1="590" x2="50" y2="670" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="90" y="630" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        相
+      </text>
+
+      
+
+      
+
+      
+      
+    
+      <rect x="135" y="590" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="175" y1="590" x2="175" y2="670" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="135" y1="630" x2="215" y2="630" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="135" y1="590" x2="215" y2="670" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="215" y1="590" x2="135" y2="670" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="175" y="630" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        逢
+      </text>
+
+      
+
+      
+      <text x="199" y="662"
+        font-family="TianYingZhangKaiShu" font-size="15"
+        fill="gray" opacity="0.8">
+        。
+      </text>
+      
+
+      
+      
+    
+      <rect x="220" y="590" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="260" y1="590" x2="260" y2="670" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="220" y1="630" x2="300" y2="630" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="220" y1="590" x2="300" y2="670" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="300" y1="590" x2="220" y2="670" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="260" y="630" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        古
+      </text>
+
+      
+
+      
+
+      
+      
+    
+      <rect x="305" y="590" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="345" y1="590" x2="345" y2="670" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="305" y1="630" x2="385" y2="630" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="305" y1="590" x2="385" y2="670" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="385" y1="590" x2="305" y2="670" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="345" y="630" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        今
+      </text>
+
+      
+
+      
+
+      
+      
+    
+      <rect x="390" y="590" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="430" y1="590" x2="430" y2="670" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="390" y1="630" x2="470" y2="630" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="390" y1="590" x2="470" y2="670" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="470" y1="590" x2="390" y2="670" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="430" y="630" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        多
+      </text>
+
+      
+
+      
+
+      
+      
+    
+      <rect x="475" y="590" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="515" y1="590" x2="515" y2="670" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="475" y1="630" x2="555" y2="630" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="475" y1="590" x2="555" y2="670" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="555" y1="590" x2="475" y2="670" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="515" y="630" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        少
+      </text>
+
+      
+
+      
+
+      
+      
+    
+      <rect x="560" y="590" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="600" y1="590" x2="600" y2="670" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="560" y1="630" x2="640" y2="630" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="560" y1="590" x2="640" y2="670" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="640" y1="590" x2="560" y2="670" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="600" y="630" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        事
+      </text>
+
+      
+
+      
+      <text x="624" y="662"
+        font-family="TianYingZhangKaiShu" font-size="15"
+        fill="gray" opacity="0.8">
+        ，
+      </text>
+      
+
+      
+      
+    
+      <rect x="645" y="590" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="685" y1="590" x2="685" y2="670" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="645" y1="630" x2="725" y2="630" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="645" y1="590" x2="725" y2="670" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="725" y1="590" x2="645" y2="670" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="685" y="630" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        都
+      </text>
+
+      
+
+      
+
+      
+      
+    
+  
+    
+      <rect x="50" y="680" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="90" y1="680" x2="90" y2="760" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="50" y1="720" x2="130" y2="720" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="50" y1="680" x2="130" y2="760" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="130" y1="680" x2="50" y2="760" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="90" y="720" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        付
+      </text>
+
+      
+
+      
+
+      
+      
+    
+      <rect x="135" y="680" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="175" y1="680" x2="175" y2="760" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="135" y1="720" x2="215" y2="720" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="135" y1="680" x2="215" y2="760" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="215" y1="680" x2="135" y2="760" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="175" y="720" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        笑
+      </text>
+
+      
+
+      
+
+      
+      
+    
+      <rect x="220" y="680" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="260" y1="680" x2="260" y2="760" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="220" y1="720" x2="300" y2="720" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="220" y1="680" x2="300" y2="760" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="300" y1="680" x2="220" y2="760" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="260" y="720" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        谈
+      </text>
+
+      
+
+      
+
+      
+      
+    
+      <rect x="305" y="680" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="345" y1="680" x2="345" y2="760" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="305" y1="720" x2="385" y2="720" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="305" y1="680" x2="385" y2="760" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="385" y1="680" x2="305" y2="760" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="345" y="720" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        中
+      </text>
+
+      
+
+      
+      <text x="369" y="752"
+        font-family="TianYingZhangKaiShu" font-size="15"
+        fill="gray" opacity="0.8">
+        。
+      </text>
+      
+
+      
+      
+    
+      <rect x="390" y="680" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="430" y1="680" x2="430" y2="760" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="390" y1="720" x2="470" y2="720" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="390" y1="680" x2="470" y2="760" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="470" y1="680" x2="390" y2="760" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="430" y="720" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        调
+      </text>
+
+      
+      <text x="395" y="752" 
+        font-family="TianYingZhangKaiShu" font-size="15"
+        fill="gray" opacity="0.8">
+        ——
+      </text>
+      
+
+      
+
+      
+      
+    
+      <rect x="475" y="680" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="515" y1="680" x2="515" y2="760" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="475" y1="720" x2="555" y2="720" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="475" y1="680" x2="555" y2="760" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="555" y1="680" x2="475" y2="760" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="515" y="720" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        寄
+      </text>
+
+      
+
+      
+
+      
+      
+    
+      <rect x="560" y="680" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="600" y1="680" x2="600" y2="760" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="560" y1="720" x2="640" y2="720" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="560" y1="680" x2="640" y2="760" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="640" y1="680" x2="560" y2="760" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="600" y="720" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        临
+      </text>
+
+      
+      <text x="565" y="752" 
+        font-family="TianYingZhangKaiShu" font-size="15"
+        fill="gray" opacity="0.8">
+        《
+      </text>
+      
+
+      
+
+      
+      
+    
+      <rect x="645" y="680" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="685" y1="680" x2="685" y2="760" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="645" y1="720" x2="725" y2="720" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="645" y1="680" x2="725" y2="760" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="725" y1="680" x2="645" y2="760" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="685" y="720" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        江
+      </text>
+
+      
+
+      
+
+      
+      
+    
+  
+    
+      <rect x="50" y="770" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="90" y1="770" x2="90" y2="850" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="50" y1="810" x2="130" y2="810" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="50" y1="770" x2="130" y2="850" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="130" y1="770" x2="50" y2="850" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      <text x="90" y="810" 
+            font-family="TianYingZhangKaiShu" font-size="60" 
+            fill="gray" opacity="0.8" 
+            text-anchor="middle" dominant-baseline="central">
+        仙
+      </text>
+
+      
+
+      
+      <text x="114" y="842"
+        font-family="TianYingZhangKaiShu" font-size="15"
+        fill="gray" opacity="0.8">
+        》
+      </text>
+      
+
+      
+      
+    
+      <rect x="135" y="770" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="175" y1="770" x2="175" y2="850" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="135" y1="810" x2="215" y2="810" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="135" y1="770" x2="215" y2="850" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="215" y1="770" x2="135" y2="850" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      
+    
+      <rect x="220" y="770" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="260" y1="770" x2="260" y2="850" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="220" y1="810" x2="300" y2="810" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="220" y1="770" x2="300" y2="850" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="300" y1="770" x2="220" y2="850" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      
+    
+      <rect x="305" y="770" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="345" y1="770" x2="345" y2="850" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="305" y1="810" x2="385" y2="810" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="305" y1="770" x2="385" y2="850" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="385" y1="770" x2="305" y2="850" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      
+    
+      <rect x="390" y="770" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="430" y1="770" x2="430" y2="850" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="390" y1="810" x2="470" y2="810" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="390" y1="770" x2="470" y2="850" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="470" y1="770" x2="390" y2="850" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      
+    
+      <rect x="475" y="770" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="515" y1="770" x2="515" y2="850" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="475" y1="810" x2="555" y2="810" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="475" y1="770" x2="555" y2="850" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="555" y1="770" x2="475" y2="850" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      
+    
+      <rect x="560" y="770" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="600" y1="770" x2="600" y2="850" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="560" y1="810" x2="640" y2="810" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="560" y1="770" x2="640" y2="850" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="640" y1="770" x2="560" y2="850" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      
+    
+      <rect x="645" y="770" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="685" y1="770" x2="685" y2="850" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="645" y1="810" x2="725" y2="810" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="645" y1="770" x2="725" y2="850" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="725" y1="770" x2="645" y2="850" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      
+    
+  
+    
+      <rect x="50" y="860" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="90" y1="860" x2="90" y2="940" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="50" y1="900" x2="130" y2="900" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="50" y1="860" x2="130" y2="940" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="130" y1="860" x2="50" y2="940" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      
+    
+      <rect x="135" y="860" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="175" y1="860" x2="175" y2="940" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="135" y1="900" x2="215" y2="900" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="135" y1="860" x2="215" y2="940" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="215" y1="860" x2="135" y2="940" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      
+    
+      <rect x="220" y="860" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="260" y1="860" x2="260" y2="940" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="220" y1="900" x2="300" y2="900" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="220" y1="860" x2="300" y2="940" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="300" y1="860" x2="220" y2="940" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      
+    
+      <rect x="305" y="860" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="345" y1="860" x2="345" y2="940" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="305" y1="900" x2="385" y2="900" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="305" y1="860" x2="385" y2="940" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="385" y1="860" x2="305" y2="940" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      
+    
+      <rect x="390" y="860" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="430" y1="860" x2="430" y2="940" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="390" y1="900" x2="470" y2="900" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="390" y1="860" x2="470" y2="940" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="470" y1="860" x2="390" y2="940" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      
+    
+      <rect x="475" y="860" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="515" y1="860" x2="515" y2="940" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="475" y1="900" x2="555" y2="900" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="475" y1="860" x2="555" y2="940" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="555" y1="860" x2="475" y2="940" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      
+    
+      <rect x="560" y="860" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="600" y1="860" x2="600" y2="940" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="560" y1="900" x2="640" y2="900" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="560" y1="860" x2="640" y2="940" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="640" y1="860" x2="560" y2="940" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      
+    
+      <rect x="645" y="860" width="80" height="80" 
+            fill="none" stroke="black" stroke-width="2"/>
+      <line x1="685" y1="860" x2="685" y2="940" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="645" y1="900" x2="725" y2="900" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="645" y1="860" x2="725" y2="940" 
+            stroke="gray" stroke-dasharray="3,2"/>
+      <line x1="725" y1="860" x2="645" y2="940" 
+            stroke="gray" stroke-dasharray="3,2"/>
+
+      
+      
+    
+  
+</svg>
