@@ -4,7 +4,9 @@ version = "0.2.0"
 description = "A tool to generate Chinese character practice sheets in SVG format"
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = ["jinja2>=3.1.6"]
+dependencies = [
+    "reportlab>=4.0.0",
+]
 
 [project.scripts]
 copybook = "copybook.main:main"

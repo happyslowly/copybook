@@ -1,58 +1,39 @@
-# Chinese Calligraphic Copybook Generator（中文字帖生成器）
+# Chinese Calligraphy Practice Sheet Generator
 
-A Python tool to generate Chinese calligraphy practice sheets in SVG format.
+Generate PDF practice sheets for Chinese calligraphy with proper character grids and punctuation positioning.
 
-## Preview
+## Example
 
 ![Sample Copybook](sample.png)
 
 ## Features
 
-- **Practice Grids**: Generates structured grids with guide lines for calligraphy
-- **Grid-based Layout**: Fills Chinese characters from text files onto practice grids
-- **Smart Punctuation**: Positions punctuation according to Chinese typography rules as left/right subscripts
-- **Multiple Formats**: A4, Letter, and Legal paper sizes
+- **PDF Output**: High-quality printable practice sheets
+- **Smart Punctuation**: Handles Chinese and English punctuation positioning
+- **Multiple Paper Sizes**: A4, Letter, Legal
+- **Customizable Grids**: Adjustable size, spacing, and layout
 
 ## Usage
-
-After installation, you can use the tool in two ways:
-
-1. As a command-line tool:
 
 ```bash
 copybook [OPTIONS] TEXT_FILE
 ```
 
-2. As a Python module:
-
-```bash
-python -m copybook.main [OPTIONS] TEXT_FILE
-```
-
-### Arguments
-
-- `TEXT_FILE`: Path to a text file containing Chinese characters to practice
-
 ### Options
 
 - `-p, --page`: Page size (a4, letter, legal) [default: letter]
-- `-g, --grid`: Grid size for each character [default: 80]
-- `--page-margin`: Page margins in pixels [default: 20]
-- `--grid-spacing`: Spacing between grids [default: 5]
-- `--line-spacing`: Extra spacing between lines [default: 10]
-- `--font`: Font family for characters [default: TianYingZhangKaiShu]
-- `--font-size`: Font size in pixels [default: 60]
-- `--font-color`: Font color [default: gray]
-- `--font-opacity`: Font opacity (0.0-1.0) [default: 0.8]
+- `-g, --grid`: Grid size [default: 40]
+- `-o, --output`: Output PDF filename [default: book.pdf]
+- `--font`: Font family [default: 田英章楷书]
+- `--font-size`: Font size [default: 32]
+- `--font-opacity`: Transparency (0.0-1.0) [default: 0.7]
 
-### Example
+### Examples
 
 ```bash
 # Basic usage
-copybook sample.txt
+copybook text.txt
 
-# With custom options
-copybook -p a4 --grid 100 --font-size 80 --include-punctuation chinese_text.txt
+# Custom output and grid size
+copybook -o practice.pdf --grid 50 text.txt
 ```
-
-The tool generates an SVG file named `book.svg` which can be opened in any web browser or vector graphics editor.

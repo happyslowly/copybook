@@ -20,7 +20,7 @@ def parse_arguments():
         help="copybook page size",
     )
     parser.add_argument(
-        "-g", "--grid", type=int, default=52, help="grid size of each character"
+        "-g", "--grid", type=int, default=40, help="grid size of each character"
     )
 
     parser.add_argument(
@@ -38,11 +38,11 @@ def parse_arguments():
     parser.add_argument(
         "--font",
         type=str,
-        default="TianYingZhangKaiShu",
+        default="田英章楷书",
         help="Font family for characters",
     )
     parser.add_argument(
-        "--font-size", type=int, default=39, help="Font size for characters in pixels"
+        "--font-size", type=int, default=32, help="Font size for characters in pixels"
     )
     parser.add_argument(
         "--font-color",
@@ -53,7 +53,7 @@ def parse_arguments():
     parser.add_argument(
         "--font-opacity",
         type=float,
-        default=0.8,
+        default=0.7,
         help="Font opacity/transparency (0.0-1.0, default: %(default)s). 0.0=transparent, 1.0=opaque",
     )
     parser.add_argument(
@@ -65,8 +65,8 @@ def parse_arguments():
         "-o",
         "--output",
         type=str,
-        default="book.svg",
-        help="output SVG filename(default: book.svg)",
+        default="book.pdf",
+        help="output PDF filename(default: book.pdf)",
     )
 
     args = parser.parse_args()
